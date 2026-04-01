@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Textile Invoice App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b318b415d24c06d8fa771e98918770a8cb1cd09")]
 [assembly: System.Reflection.AssemblyProductAttribute("Textile Invoice App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Textile Invoice App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
